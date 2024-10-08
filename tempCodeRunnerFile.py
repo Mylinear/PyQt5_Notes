@@ -1,0 +1,1 @@
+self.layout().addWidget(label1)
